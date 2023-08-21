@@ -1,2 +1,5 @@
 # OS_Proj
-Building an Operating System
+I'm building an operating system
+
+IN PROGRESS
+
